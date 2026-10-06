@@ -1,19 +1,23 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "notes": "",
-  "pub_date": "2026-09-21T13:49:17Z",
+  "pub_date": "2026-10-06T09:53:41Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmlGSXVuOHpGbE9WRjIwbkFxa2YyejMzYmhjYkRRNXBxUVFOWHZ3amFtUkJYNkI3U0NWcFJSSmRDd0FKSHc2VHkrVVRxZkNtWlhZR2twMXVrWVp4OVBaMzhiK041SWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTk3ODkxCWZpbGU6TGl0cmFuaXRlLmFwcC50YXIuZ3oKZWNLUHd3TVJwSnBJSGttbjJlc0IvSUxRelQ2ZjZVTzdRZERDVVIyOGxCYk93M2w5TFpDdy8xY2ZMb0Q0dmJndmpuNWNpUUpmcDVBSVN0RmVnZWpRRHc9PQo=",
-      "url": "https://github.com/AyanaayaW/litranite-releases/releases/download/v1.4.0/Litranite_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmlGSXVuOHpGbEF1Skx5ZmRIQjdTUkh6OVE3TDVqS2N1OVRRdk1ZSmt6RFI4a09NQ1FBTmM3ZGlyQ2hiRllRdGRqK01PQnhUYmFaNTFqQ2M0VDJoQWgxbEVPYXFYU3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjc5NzI5CWZpbGU6TGl0cmFuaXRlLmFwcC50YXIuZ3oKRkk2NFhOVGd3akxHa2NDdVdKVkJSN0ZFVDdOU1Y0SzkrTUVTVldIVVZ4WnJwNlNYeUpqcktjQUh3V2hzNFpoZXFQcnJjSVdNZk9DQ09VVnZJbS9FQVE9PQo=",
+      "url": "https://github.com/AyanaayaW/litranite-releases/releases/download/v1.5.0/Litranite_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmlGSXVuOHpGbEVYRGNPbUdJaHE2dG8rQnZsQmhPTVM5djAxbVo5NTRUd2lJUXBjd01GVEZIR0dKZzZNRUprVlUxbUk0ZzkrNUgrZHlWQk13SnF3Y1NndXA4Ly9Ya0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTk3ODg2CWZpbGU6TGl0cmFuaXRlLmFwcC50YXIuZ3oKOUIxajZsU1JIeHZvaGgvR09xWndRMWpOanJDS3ZDa3RXMHYvNDVaNlVxNEg0YVlKbTd0ZWp6L2N0S0I1UXhOZmRMY29CekQ5SWFneUI1UUFrWGo5Qmc9PQo=",
-      "url": "https://github.com/AyanaayaW/litranite-releases/releases/download/v1.4.0/Litranite_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmlGSXVuOHpGbEozNzBEMVB1VjZyeUVTT0FudWU1aHJ5aUFsRTBSZ0xVaTVUUmV2WVZWRXZlRjRSbXp1NGZZc2h0Q0FYd3J3UHZJQUh5OUNHb05hb003SzN2V3pGRUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjc5NzMzCWZpbGU6TGl0cmFuaXRlLmFwcC50YXIuZ3oKaTJackdDK2xWUkpoRmFWZU9XL0NqbzRqVVRYWmdjaElFSE5OKzBCVk5rdEkvNHFkRXdwQmxLL1hRRnREQ1ZnK3plSzV3ZnVqcmd1dHVQNzZ1aGd1Q1E9PQo=",
+      "url": "https://github.com/AyanaayaW/litranite-releases/releases/download/v1.5.0/Litranite_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmlGSXVuOHpGbEQ1M1lOWVNJNmRSUVRESWJtTUdUSzI0MzZIWldEYWN0b28rYXhQdXZSQ1d4b3EvSE04WXJyOE54WXptYUtjby9Za1FSdDR4VGY1MkxCM0xYc0JMZ0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTk4NDEwCWZpbGU6TGl0cmFuaXRlXzEuNC4wX3g2NC1zZXR1cC5leGUKQzkyVTk5MnllNy9QQ2QrMHl2TVVySEhoampjWGJkS3U2RmJBTjdEQUtrcnhiR0YwTHRZQjRFQVB0ekM5N3JSZGNTY0JZVjh2d1hmZTdoemtTNkozRFE9PQo=",
-      "url": "https://github.com/AyanaayaW/litranite-releases/releases/download/v1.4.0/Litranite_1.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmlGSXVuOHpGbEF4czI2M1czcDlXbC9WcVl1alI1ODdjbGVXd242ZWJTaWV5NWhQT09BZXlOcnNPNjRsaHV4aGN2Y3NJdmI2ZkM3RDZ5aWQyVDZVNEsvN1AyTkt4N2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjgwMjU4CWZpbGU6TGl0cmFuaXRlXzEuNS4wX3g2NC1zZXR1cC5leGUKdVk3ODBLM2ZxaWJTL3cyczNsUEo5ZnRLRjYyWW85aWJMVzNFeUJUeHhzcFZjdGQ0NXQwN0pDNXV6bnRuREdhZkdiLzJpTy9mTUhINGRONmpvVnJnQXc9PQo=",
+      "url": "https://github.com/AyanaayaW/litranite-releases/releases/download/v1.5.0/Litranite_1.5.0_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmlGSXVuOHpGbE9Na0xxN09wVmFWWWUzaTVveko5SXpRaVdWMUVWYWR1UUNmeHF2SDhHdFM0U0EwaXRIcFdUK3prV1IrRGcwNGIvSjRkTy9JUXluWFhqd2tjZ0FCTGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjgwMDg4CWZpbGU6TGl0cmFuaXRlXzEuNS4wX2FtZDY0LkFwcEltYWdlCjdSQk9EUkl6dWQ0L3lHalRJeDNWYkYyeVRsQnNNYitHdDBBaUk0QjRoU2tYUTlnYk4rREVLeEFYZ3BlMjQxa2tzZmRDcHRWZnNyWEhjSnNuNUhwbUF3PT0K",
+      "url": "https://github.com/AyanaayaW/litranite-releases/releases/download/v1.5.0/Litranite_1.5.0_amd64.AppImage"
     }
   }
 }
